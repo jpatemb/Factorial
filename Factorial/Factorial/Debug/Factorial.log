@@ -1,0 +1,3 @@
+﻿  Factorial.cpp
+C:\Users\JP\source\repos\Factorial\Factorial\Factorial.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Factorial.vcxproj -> C:\Users\JP\source\repos\Factorial\Debug\Factorial.exe
